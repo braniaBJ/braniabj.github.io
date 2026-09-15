@@ -81,7 +81,16 @@
   In Java, a class is like a blueprint the defines the structure and behavior data and actions of objects you can create from it
 </details> 
 
+<details>.
+  <summary>  variables </summary>
+  variables is like a box you hold information in.
+</details> 
 
+
+<details>.
+  <summary>  strings </summary>
+  strings is a set of words or numbers that are surrounded by quotation marks "Here is one string"  
+</details> 
 
 
 
